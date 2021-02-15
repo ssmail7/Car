@@ -1,7 +1,7 @@
 # Car
 
-Version 1 (Car_Test.java):
+Version 1 (Car.java, Car_Test.java):
 - This program creates a car object from a keayboard scanner and prints it to the screen.
 
-Version 2 (CarsFromFile.java):
+Version 2 (Car.java, CarsFromFile.java):
 - This version creates an array of car objects by using a file scanner and then outputs the attributes of each car to the screen.
