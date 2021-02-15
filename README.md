@@ -1,2 +1,3 @@
 # Car
-Project 11 from my Programming Concepts class during the Spring 2016 semester.
+
+This program creates a list of car objects.
